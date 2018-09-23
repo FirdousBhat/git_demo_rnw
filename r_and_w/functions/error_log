@@ -1,0 +1,2 @@
+[22-Sep-2018 19:06:27 Asia/kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/urbanliv/public_html/rednwhites/functions/functions.php on line 86
+[22-Sep-2018 21:13:44 Asia/kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urbanliv/public_html/rednwhites/functions/model.php:28) in /home/urbanliv/public_html/rednwhites/functions/model.php on line 31

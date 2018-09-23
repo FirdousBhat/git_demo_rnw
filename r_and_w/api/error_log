@@ -1,0 +1,81 @@
+[10-Jul-2018 19:25:14 UTC] PHP Fatal error:  Call to undefined function DECODE() in /home/urbanliv/public_html/gofresh/api/index.php on line 9
+[10-Jul-2018 19:26:19 UTC] PHP Warning:  mysqli::query(): Empty query in /home/urbanliv/public_html/gofresh/api/VendorLogin.php on line 59
+[10-Jul-2018 19:33:34 UTC] PHP Warning:  mysqli::query(): Empty query in /home/urbanliv/public_html/gofresh/api/VendorLogin.php on line 59
+[11-Jul-2018 18:43:03 UTC] PHP Warning:  mysqli::query(): Empty query in /home/urbanliv/public_html/gofresh/api/VendorLogin.php on line 77
+[12-Jul-2018 18:53:21 UTC] PHP Warning:  mysqli::query(): Empty query in /home/urbanliv/public_html/gofresh/api/VendorLogin.php on line 77
+[26-Jul-2018 18:08:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:08:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:09:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:09:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:09:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:11:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:14:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:17:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:18:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:19:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:19:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/config.php on line 9
+[26-Jul-2018 18:26:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /home/urbanliv/public_html/gofresh/api/test.php on line 15
+[29-Jul-2018 10:55:05 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[30-Jul-2018 19:39:30 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[30-Jul-2018 19:40:12 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:36:11 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:36:30 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:40:47 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:40:51 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:40:54 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:40:56 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:40:59 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:41:01 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 18:41:04 UTC] PHP Fatal error:  Cannot re-assign auto-global variable _REQUEST in /home/urbanliv/public_html/gofresh/api/products.php on line 11
+[01-Aug-2018 19:56:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ProductDetails::getFavProducts() in /home/urbanliv/public_html/gofresh/api/productdetails.php:16
+Stack trace:
+#0 /home/urbanliv/public_html/gofresh/api/productdetails.php(90): ProductDetails->process()
+#1 {main}
+  thrown in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 16
+[01-Aug-2018 19:57:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ProductDetails::getFavProducts() in /home/urbanliv/public_html/gofresh/api/productdetails.php:16
+Stack trace:
+#0 /home/urbanliv/public_html/gofresh/api/productdetails.php(91): ProductDetails->process()
+#1 {main}
+  thrown in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 16
+[01-Aug-2018 19:57:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ProductDetails::getFavProducts() in /home/urbanliv/public_html/gofresh/api/productdetails.php:16
+Stack trace:
+#0 /home/urbanliv/public_html/gofresh/api/productdetails.php(91): ProductDetails->process()
+#1 {main}
+  thrown in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 16
+[01-Aug-2018 19:57:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ProductDetails::getFavProducts() in /home/urbanliv/public_html/gofresh/api/productdetails.php:16
+Stack trace:
+#0 /home/urbanliv/public_html/gofresh/api/productdetails.php(91): ProductDetails->process()
+#1 {main}
+  thrown in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 16
+[01-Aug-2018 19:58:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ProductDetails::getFavProducts() in /home/urbanliv/public_html/gofresh/api/productdetails.php:16
+Stack trace:
+#0 /home/urbanliv/public_html/gofresh/api/productdetails.php(91): ProductDetails->process()
+#1 {main}
+  thrown in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 16
+[01-Aug-2018 19:59:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ProductDetails::getFavProducts() in /home/urbanliv/public_html/gofresh/api/productdetails.php:16
+Stack trace:
+#0 /home/urbanliv/public_html/gofresh/api/productdetails.php(91): ProductDetails->process()
+#1 {main}
+  thrown in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 16
+[01-Aug-2018 20:01:53 UTC] PHP Warning:  Attempt to assign property of non-object in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 20
+[03-Aug-2018 18:55:04 UTC] PHP Warning:  Attempt to assign property of non-object in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 22
+[03-Aug-2018 18:55:48 UTC] PHP Warning:  Attempt to assign property of non-object in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 22
+[03-Aug-2018 19:00:44 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[03-Aug-2018 19:00:55 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[03-Aug-2018 19:18:16 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[03-Aug-2018 19:55:44 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[03-Aug-2018 19:56:00 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[03-Aug-2018 21:06:11 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[03-Aug-2018 21:06:16 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[08-Aug-2018 17:18:45 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[13-Aug-2018 17:47:25 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[13-Aug-2018 17:47:29 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[13-Aug-2018 19:27:46 UTC] PHP Warning:  Cannot use a scalar value as an array in /home/urbanliv/public_html/gofresh/api/productdetails.php on line 21
+[13-Aug-2018 19:42:16 UTC] PHP Warning:  Missing argument 1 for Products::getTotal(), called in /home/urbanliv/public_html/gofresh/api/products.php on line 17 and defined in /home/urbanliv/public_html/gofresh/api/products.php on line 66
+[12-Sep-2018 20:06:37 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/urbanliv/public_html/rednwhites/api/products.php on line 64
+[12-Sep-2018 20:06:46 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/urbanliv/public_html/rednwhites/api/products.php on line 64
+[12-Sep-2018 20:06:51 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/urbanliv/public_html/rednwhites/api/products.php on line 64
+[12-Sep-2018 20:09:33 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/urbanliv/public_html/rednwhites/api/products.php on line 64
+[22-Sep-2018 15:35:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urbanliv/public_html/rednwhites/api/user_mobile_register.php:25) in /home/urbanliv/public_html/rednwhites/api/user_mobile_register.php on line 38
+[22-Sep-2018 15:36:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urbanliv/public_html/rednwhites/api/user_mobile_register.php:25) in /home/urbanliv/public_html/rednwhites/api/user_mobile_register.php on line 38
+[22-Sep-2018 15:36:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/urbanliv/public_html/rednwhites/api/user_mobile_register.php:25) in /home/urbanliv/public_html/rednwhites/api/user_mobile_register.php on line 38

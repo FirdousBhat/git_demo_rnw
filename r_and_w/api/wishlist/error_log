@@ -1,0 +1,1 @@
+[03-Aug-2018 19:51:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/urbanliv/public_html/gofresh/api/wishlist/config.php on line 9
