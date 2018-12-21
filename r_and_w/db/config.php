@@ -5,9 +5,9 @@ date_default_timezone_set('Asia/kolkata');
 
 
 $DB_host = "localhost";
-$DB_user = "urbanliv_faizan";
-$DB_pass = "jugglerbhai1990";
-$DB_name = "urbanliv_gofresh";
+$DB_user = "";
+$DB_pass = "";
+$DB_name = "";
 
 try
 {
